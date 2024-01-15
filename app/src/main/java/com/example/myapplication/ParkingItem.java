@@ -5,6 +5,8 @@ public class ParkingItem {
     private String mOwner;
     private int mPlaces;
 
+    private String mAdress;
+
 
 
 }
