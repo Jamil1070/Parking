@@ -6,6 +6,8 @@ public class ParkingItem {
     private int mPlaces;
 
     private String mAdress;
+    private String Car;
+
 
 
 
